@@ -1,0 +1,57 @@
+101,Hyundai Creta,Petrol,White,1493cc,1200000,48
+102,Hyundai Creta,Petrol,White,1493cc,1200000,49
+103,Hyundai Creta,Petrol,White,1493cc,1200000,50
+104,Hyundai Creta,Petrol,White,1497cc,1300000,49
+105,Hyundai Creta,Petrol,White,1497cc,1300000,48
+106,Hyundai Creta,Petrol,White,1497cc,1300000,50
+107,Hyundai Creta,Disel,White,1493cc,1000000,50
+108,Hyundai Creta,Disel,White,1493cc,1000000,50
+109,Hyundai Creta,Disel,White,1493cc,1000000,50
+110,Hyundai Creta,Disel,White,1497cc,1100000,50
+111,Hyundai Creta,Disel,White,1497cc,1100000,50
+113,Hyundai Creta,Petrol,Black,1353cc,1000000,50
+114,Hyundai Creta,Petrol,Black,1353cc,1000000,50
+115,Hyundai Creta,Petrol,Black,1353cc,1000000,50
+116,Hyundai Creta,Petrol,Black,1497cc,1200000,50
+117,Hyundai Creta,Petrol,Black,1497cc,1200000,50
+118,Hyundai Creta,Petrol,Black,1497cc,1200000,50
+119,Hyundai Creta,Disel,Black,1353cc,900000,50
+120,Hyundai Creta,Disel,Black,1353cc,900000,50
+121,Hyundai Creta,Disel,Black,1353cc,900000,50
+122,Hyundai Creta,Disel,Black,1497cc,1100000,50
+123,Hyundai Creta,Disel,Black,1497cc,1100000,50
+124,Hyundai Creta,Disel,Black,1497cc,1100000,50
+125,Hyundai Creta,Petrol,Grey,1497cc,1200000,50
+126,Hyundai Creta,Petrol,Grey,1497cc,1200000,50
+127,Hyundai Creta,Petrol,Grey,1497cc,1200000,50
+128,Hyundai Creta,Disel,Silver,1493cc,1100000,50
+129,Hyundai Creta,Disel,Silver,1493cc,1100000,50
+130,Hyundai Creta,Disel,Silver,1493cc,1100000,50
+131,Hyundai Creta,Petrol,Ranger Khaki,1353cc,1300000,50
+132,Hyundai Creta,Petrol,Ranger Khaki,1353cc,1300000,50
+133,Hyundai Creta,Petrol,Ranger Khaki,1497cc,1500000,50
+134,Hyundai Creta,Petrol,Ranger Khaki,1497cc,1500000,50
+135,Hyundai Creta,Disel,Ranger Khaki,1497cc,1400000,50
+136,Hyundai Creta,Disel,Ranger Khaki,1497cc,1400000,50
+201,Hyundai i10 Nios,Petrol,White,1197cc,1100000,50
+202,Hyundai i10 Nios,Petrol,White,1197cc,1100000,50
+203,Hyundai i10 Nios,Petrol,Black,1197cc,1100000,50
+204,Hyundai i10 Nios,Petrol,Black,1197cc,1100000,50
+205,Hyundai i10 Nios,Petrol,Silver,1197cc,1100000,50
+206,Hyundai i10 Nios,Petrol,Silver,1197cc,1100000,50
+207,Hyundai i10 Nios,Petrol,Red,1197cc,1100000,50
+208,Hyundai i10 Nios,Petrol,Red,1197cc,1100000,50
+209,Hyundai i10 Nios,Petrol+CNG,White,1197cc,1300000,50
+210,Hyundai i10 Nios,Petrol+CNG,White,1197cc,1300000,49
+211,Hyundai i10 Nios,Petrol+CNG,Black,1197cc,1300000,50
+212,Hyundai i10 Nios,Petrol+CNG,Black,1197cc,1300000,50
+213,Hyundai i10 Nios,Petrol+CNG,Silver,1197cc,1300000,50
+214,Hyundai i10 Nios,Petrol+CNG,Silver,1197cc,1300000,50
+215,Hyundai Elite i20,Petrol,White,1197cc,1500000,50
+216,Hyundai Elite i20,Petrol,White,1197cc,1500000,50
+217,Hyundai Elite i20,Petrol,Black,1197cc,1500000,50
+218,Hyundai Elite i20,Petrol,Black,1197cc,1500000,50
+219,Hyundai Elite i20,Petrol,Silver,1197cc,1400000,50
+220,Hyundai Elite i20,Petrol,Silver,1197cc,1400000,49
+221,Hyundai Elite i20,Petrol,white,1197cc,1400000,49
+222,Hyundai Elite i20,Petrol,Red,1197cc,1400000,49

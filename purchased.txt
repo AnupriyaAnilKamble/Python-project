@@ -1,0 +1,7 @@
+101,Hyundai Creta,Petrol,White,1493cc,1200000
+102,Hyundai Creta,Petrol,White,1493cc,1200000
+105,Hyundai Creta,Petrol,White,1497cc,1300000
+104,Hyundai Creta,Petrol,White,1497cc,1300000
+105,Hyundai Creta,Petrol,White,1497cc,1300000
+101,Hyundai Creta,Petrol,White,1493cc,1200000
+210,Hyundai i10 Nios,Petrol+CNG,White,1197cc,1300000
